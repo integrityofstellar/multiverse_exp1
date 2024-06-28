@@ -1,5 +1,4 @@
 import itertools
-import matplotlib.pyplot as plt
 
 # Define the questions and possible answer types
 questions = {
